@@ -49,3 +49,4 @@ The Main class is the driver class that demonstrates the usage of the Lion class
 This example demonstrates the implementation of an Animal class and a Lion class that extends Animal. The Animal class satisfies three out of the four OOP principles (Inheritance, Encapsulation, and Abstraction) while the Lion class demonstrates Polymorphism. The Main class demonstrates the usage of the Lion class.
 
 ## Screenshot
+<img width="960" alt="exc ss" src="https://github.com/RelKereta/Exercise_1-DSA_TA_2024/assets/144778128/2afd9b7d-a768-41b6-803a-6f4ae79ba025">
