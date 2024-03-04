@@ -1,3 +1,4 @@
+## Farrell Sevillen Arya - 2702323540
 This example demonstrates the implementation of an 'Animal' class and a 'Lion' class that extends 'Animal'. The 'Animal' class satisfies three out of the four OOP principles (Inheritance, Encapsulation, and Abstraction) while the Lion class demonstrates Polymorphism.
 
 ## Usage
